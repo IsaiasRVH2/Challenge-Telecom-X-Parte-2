@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Preparación",
-        "Análisis"
+        "Análisis",
+        "Modelado"
     ]
 }
